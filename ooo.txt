@@ -1,3 +1,6 @@
+<<<<<<< HEAD
 yyyyyyyyyyyyyyyy
 
 12211212
+ddddddyyyyyyyyyyyyyyyy
+ddd: feture_x
